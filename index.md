@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Main Page
+title: Dragon IK Launch
 nav_order: 1
 description: "©Gamasome Interactive LLP"
 permalink: /
