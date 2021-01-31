@@ -47,6 +47,8 @@ There exists exactly 3 unique animation blueprints provided by the plugin
 
 <img src="http://codehawk64.github.io/assets/images/getting-started/start3.PNG" >
 
+
+- Latest plugin version is 2.2.5, which exists in 4.24,4.25 and 4.26.
 - Entire process is strictly through animation blueprints. Replication is automatically supported.
 - IK solving is handled through the result of the line traces that fires from the bones of the characters.
 - If bones are setup successfully, these line traces and other widgets can be visualized in the animation blueprint if you click on the solvers.
