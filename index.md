@@ -2,7 +2,7 @@
 layout: default
 title: Dragon IK Launch
 nav_order: 1
-description: "©Gamasome Interactive LLP"
+description: "©Eternal Monke Games"
 permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
@@ -34,7 +34,7 @@ is a human, dog, snake, dragon or spider.
 ---
 
 Visit our public discord server for support!
-[Gamasome Discord Server](https://discord.gg/XdBWW2U)
+[DragonIK Discord Server](https://discord.gg/XdBWW2U)
 
 
 [Get it from the marketplace now!](https://www.unrealengine.com/marketplace/en-US/product/dragon-ik-animal-inverse-kinematics){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View sample project on GitHub (Requires plugin installed)](https://github.com/codehawk64/DragonIK-ExampleProject){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -47,5 +47,5 @@ You can also shoot a mail at codehawk64@gmail.com (discord communication is reco
 
 ### License
 
-DragonIK is a copyright trademark of Gamasome Interactive. Its license follows the Marketplace Distribution Agreement set by Epic Games.
+DragonIK is a copyright trademark of Eternal Monke Games. Its license follows the Marketplace Distribution Agreement set by Epic Games.
 [Marketplace Distribution_license](https://www.unrealengine.com/en-US/marketplace-distribution-agreement).
