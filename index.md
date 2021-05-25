@@ -10,8 +10,8 @@ last_modified_date: 2020-04-27T17:54:08+0000
 
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>Redirecting to https://dragonik.eternalmonke.com/</title>
-<meta http-equiv="refresh" content="0; URL=https://dragonik.eternalmonke.com/">
+<title>Redirecting to the new documentation link at https://dragonik.eternalmonke.com/ in 5 seconds.</title>
+<meta http-equiv="refresh" content="5; URL=https://dragonik.eternalmonke.com/">
 <link rel="canonical" href="https://dragonik.eternalmonke.com/">
 
 
