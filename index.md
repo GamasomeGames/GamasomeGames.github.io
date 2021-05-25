@@ -7,6 +7,14 @@ permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://dragonik.eternalmonke.com/</title>
+<meta http-equiv="refresh" content="0; URL=https://dragonik.eternalmonke.com/">
+<link rel="canonical" href="https://dragonik.eternalmonke.com/">
+
+
 # DragonIK - Universal Inverse Kinematics
 {: .fs-8 }
 
